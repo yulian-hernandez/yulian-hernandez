@@ -1,5 +1,13 @@
 Hi 👋 My name is Yulian hernandez
-=================================Software Developer------------------I am a technologist in analysis and development of information systems, passionate about the different branches of technology. I master tools within all these areas and I am passionate about applying them developing innovative and effective solutions* 🌍  I'm based in Bogotá / Colombia* ✉️  You can contact me at [yulanthertri@gmail.com](mailto:yulanthertri@gmail.com)
+=================================
+
+Software Developer
+------------------
+
+I am a technologist in analysis and development of information systems, passionate about the different branches of technology. I master tools within all these areas and I am passionate about applying them developing innovative and effective solutions
+
+*   🌍  I'm based in Bogotá / Colombia
+*   ✉️  You can contact me at [yulanthertri@gmail.com](mailto:yulanthertri@gmail.com)### Skills<p align="left">
 
 ### Skills
 
