@@ -4,7 +4,12 @@
 <p align="center">
 
 </p>
-
+<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"></code>
 <br/>
 
 <p align="center">
